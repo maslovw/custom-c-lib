@@ -1,1 +1,7 @@
-ReadMe
+AKSmartPtr:
+	Seample Smart Pointer
+	
+BitField:
+	Bit container (nothing to do with std containers)
+	
+	
