@@ -1,5 +1,5 @@
 AKSmartPtr:
-	Seample Smart Pointer
+	Simple Smart Pointer
 	
 BitField:
 	Bit container (nothing to do with std containers)
